@@ -1,5 +1,5 @@
 <!-- CABECERA ANIMADA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0055a5&height=250&section=header&text=Javier%20Enrique%20Villac%C3%ADs%20Acosta&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Full%20Stack%20%7C%20Soporte%20TI%20%7C%20Inteligencia%20de%20Negocios&descSize=19&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0055a5&height=250&section=header&text=Javier%20Enrique%20Villacis%20Acosta&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Full%20Stack%20%7C%20Soporte%20TI%20%7C%20Inteligencia%20de%20Negocios&descSize=19&descAlignY=65" width="100%" />
 
 <br>
 
